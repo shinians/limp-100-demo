@@ -5,7 +5,7 @@ import io.netty.channel.ChannelInboundHandlerAdapter;
 
 /**
  * @intro ：
- * @auth ： shinians 
+ * @auth ： shinians
  * @time ： 2018/12/5 22:20
  * @website： www.shinians.com
  */
