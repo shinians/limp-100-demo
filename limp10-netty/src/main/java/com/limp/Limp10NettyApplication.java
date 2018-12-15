@@ -8,5 +8,6 @@ public class Limp10NettyApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Limp10NettyApplication.class, args);
+		System.out.println("启动成功");
 	}
 }
